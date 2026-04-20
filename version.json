@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.0.3",
+    "latestVersion": "1.0.4",
     "apkUrl": "https://github.com/zeeshantanveer/haleria-android-apk/raw/refs/heads/main/app-release.apk",
     "forceUpdate": false,
-    "releaseNotes": "Create Audience List, Bug Fixes, Performance Improvements"
+    "releaseNotes": "Debounce implemented for send button to prevent multiple message sends. Added permission for installing updates directly from the app. Version updated to 1.0.4."
 }
