@@ -1,5 +1,5 @@
 {
-    "latestVersion": "1.0.2",
+    "latestVersion": "1.0.3",
     "apkUrl": "https://github.com/zeeshantanveer/haleria-android-apk/raw/refs/heads/main/app-release.apk",
     "forceUpdate": false,
     "releaseNotes": "Create Audience List, Bug Fixes, Performance Improvements"
